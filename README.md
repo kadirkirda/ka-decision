@@ -16,14 +16,14 @@ Installation of all of the required packages
 $ pip install -r requirements.txt
 ```
 
-## GUI Application Overview
+## Application Overview
 
 This document describes the **ka-decision** Desktop Application which can run standalone in users computer.
 
 ### Features
 
-- Includes a number of selected MCDM methods.
-- It has an intuitive use feature. With routing messages, it is possible for the user to understand what to do.
+- Including a number of selected MCDM methods.
+- It has an intuitive usage feature. With routing messages, it is possible for the user to understand what to do.
 - Excel file format is used for input-output operations.
 - It offers the opportunity to use more than one method at the same time.
 - Provides detailed process tables for each method in addition to summary results.
