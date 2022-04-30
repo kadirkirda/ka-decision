@@ -7,7 +7,7 @@
 
 **Requirements**
 ```yaml
-python (version >= 3.6.8)
+python (version >= 3.7)
 ```
 **Installation**
 
