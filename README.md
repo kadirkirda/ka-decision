@@ -3,18 +3,27 @@
 
 **ka-decisions** is a software with a user-friendly interface that makes it possible to use more than one MCDM method at the same time and integrate the results.
 
-## Installation of ka-decision
+## Installation and Launching of ka-decision
 
 **Requirements**
 ```yaml
 python (version >= 3.7)
 ```
+
 **Installation**
 
 Installation of all of the required packages
 ```bash
 $ pip install -r requirements.txt
 ```
+
+**Launching**
+
+If you use terminal, go to src folder with cd command. Then:
+```bash
+$ python main.py
+```
+If you use Visual Studio Code, run src/main.py file.
 
 ## Application Overview
 
@@ -34,7 +43,7 @@ This document describes the **ka-decision** Desktop Application which can run st
 
 When the software is started, an interface consisting data operations, selection of methods, selection of weighting method, calculation, reporting and aggregation is opened.
 
-<img src="documentation/images/user-interface.png"> 
+<img src="documentation/images/user-interface.png" width=600> 
 
 On this page, if required, empty xlsx file to be imported can be created by the program by entering the criteria and alternative numbers.
 
@@ -52,15 +61,15 @@ When the "Calculate" button is clicked, all of the calculations are complated.
 
 After that, the "Show Ranking" button is clicked and the summary results are displayed as follows.
 
-<img src="documentation/images/results-presentation.png"> 
+<img src="documentation/images/results-presentation.png" width=600> 
 
 Detailed tables of the methods included in the calculation can be saved by clicking the "Save Output Tables" button. Each page of the file (in xlsx format) shows a calculation step of a method as shown below.
 
-<img src="documentation/images/detailed-outputs.png">
+<img src="documentation/images/detailed-outputs.png" width=600>
 
 For the aggregation process, a method is selected in the "Aggregation" section and then the "Aggregate" button is clicked. Currently, only the Borda method is available.
 
-<img src="documentation/images/aggregation-results.png"> 
+<img src="documentation/images/aggregation-results.png" width=600> 
 
  # License
 
