@@ -1,0 +1,1 @@
+ka-decision.exe has been compiled for Windows Platform. You can use it without Python setup. It takes some time to open (30sec).
