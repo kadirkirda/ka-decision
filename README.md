@@ -37,7 +37,7 @@ This document describes the **ka-decision** Desktop Application which can run st
 - It offers the opportunity to use more than one method at the same time.
 - Provides detailed process tables for each method in addition to summary results.
 - It has the feature of integrating the ranking results.
-- In addition, there are solutions for the newly developed REF-I and REF-II methods in the literature.
+- In addition, there are solutions for the newly developed REF-I and REF-II methods.
 
 ### Usage of The Software
 
@@ -47,9 +47,9 @@ When the software is started, an interface consisting data operations, selection
 
 On this page, if required, empty xlsx file to be imported can be created by the program by entering the criteria and alternative numbers.
 
-In order to import the data, the "Import Data" button is clicked and the relevant data file is selected. In case of any error, the program guides the user to make the necessary corrections.
+In order to import the data, the "Import Data" button should be clicked and the relevant data file should be selected. In case of any error, the program guides the user to make the necessary corrections.
 
-The methods to be included in the calculation are selected from the "MCDM Method Selection" list on the left.
+The methods to be included in the calculation are selected from the "MCDM Method Selection" list on the left side of the window.
 
 One of the following options can be preferred for weighting the criteria:
 - Default values
@@ -57,13 +57,13 @@ One of the following options can be preferred for weighting the criteria:
 - Entropy weighting
 - Critic weighting
 
-When the "Calculate" button is clicked, all of the calculations are complated.
+When the "Calculate" button is clicked, all of the calculations are completed.
 
-After that, the "Show Ranking" button is clicked and the summary results are displayed as follows.
+After that, when the "Show Ranking" button is clicked, the summary results are displayed as seen in below.
 
 <img src="documentation/images/results-presentation.png" width=600> 
 
-Detailed tables of the methods included in the calculation can be saved by clicking the "Save Output Tables" button. Each page of the file (in xlsx format) shows a calculation step of a method as shown below.
+Detailed tables of the methods included in the calculation can be saved by clicking the "Save Output Tables" button. Each method's application processes are represented by tables on a different page in the xlsx format file.
 
 <img src="documentation/images/detailed-outputs.png" width=600>
 
