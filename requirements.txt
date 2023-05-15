@@ -1,0 +1,5 @@
+pandas>=1.5.3
+numpy>=1.23.5
+PyQt6>=6.4.2
+xlsxwriter>=3.1.0
+openpyxl>=3.1.2
