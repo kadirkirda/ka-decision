@@ -1,5 +1,12 @@
 [![ka-decision logo](documentation/images/ka-decision-logo.png)](https://github.com/kadirkirda/ka-decision)
-## ka-decision - Multi-Method MCDM Software
+
+**Notes**
+
+- If you are Microsoft Windows user, you can [download ka-decision.exe](https://github.com/kadirkirda/ka-decision/raw/refs/heads/main/software/ka-decision.exe). This is the compiled version of the source code.
+
+- To cite this software publication: https://link.springer.com/article/10.1007/s10668-023-03349-z
+
+## ka-decision - Multi-Method MCDM/MCDA Software
 
 **ka-decisions** is a software with a user-friendly interface that makes it possible to use more than one MCDM method at the same time and integrate the results.
 
